@@ -1,5 +1,5 @@
 # Site settings
-
+title: Helpdesk
 description: "Agawam Technology Helpdesk"
 baseurl: "/Technology-Website" # the subpath of your site, e.g. /blog
 url: "https://agawam-technology.github.io" # the base hostname & protocol for your site, e.g. http://example.com

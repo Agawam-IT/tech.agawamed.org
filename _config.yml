@@ -3,7 +3,7 @@
 
 title: Helpdesk
 url: "https://agawam-technology.github.io/Technology-Website/"
-baseurl:
+baseurl: "/"
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
@@ -16,7 +16,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Base Template
+  name: Agawam Helpdesk
   links:
     - https://github.com/Agawam-Technology/Technology-Website
 

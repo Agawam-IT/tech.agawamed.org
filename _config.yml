@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Base
-url: "https://orange-ape.cloudvent.net/"
+title: Helpdesk
+url: "https://agawam-technology.github.io/Technology-Website/"
 baseurl:
 google_analytics_key:
 disqus_shortname:
@@ -18,7 +18,7 @@ author:
 social:
   name: Base Template
   links:
-    - https://github.com/CloudCannon/base-jekyll-template
+    - https://github.com/Agawam-Technology/Technology-Website
 
 # -----
 # Build

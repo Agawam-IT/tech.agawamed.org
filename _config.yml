@@ -21,7 +21,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
+  "View on GitHub":
     - "//github.com/Agawam-Technology/Technology-Website"
 
 # Footer content appears at the bottom of every page's main content
@@ -35,7 +35,6 @@ color_scheme: nil
 ga_tracking: 
 
 plugins:
-  - jekyll-seo-tag
 
 compress_html:
   clippings: all

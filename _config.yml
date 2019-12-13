@@ -39,6 +39,7 @@ exclude:
   - LICENCE
   
 include: ['_categories']
+include: ['_pages']
 
 collections:
   category:

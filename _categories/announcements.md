@@ -1,4 +1,5 @@
 ---
+layout: archive
 category: annoucements
-permalink: "/category/annoucements"
+permalink: /category/annoucements
 ---

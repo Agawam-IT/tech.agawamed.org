@@ -68,7 +68,7 @@ defaults:
   -
     scope:
       path: ""
-      type: category
+      type: "category"
     values:
       layout: "archive"
 

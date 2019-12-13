@@ -38,6 +38,8 @@ exclude:
   - README.md
   - LICENCE
   
+include: ['_categories']
+
 collections:
   category:
     output: true

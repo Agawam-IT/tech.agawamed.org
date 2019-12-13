@@ -1,5 +1,5 @@
 ---
 layout: archive
-category: annoucements
+tag: annoucements
 permalink: /category/annoucements
 ---

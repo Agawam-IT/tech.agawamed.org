@@ -1,3 +1,11 @@
 ---
-layout: archive
+layout: default
 ---
+
+<h2 style="text-transform:capitalize;">{{ page.title | replace: "-", " " }} <span class="count">({{ posts | size }})</span></h2>
+
+<div class="blog list">
+    {% for post in site.categories[page.tag] %}
+        {% include listings.html listings=posts %}
+    {% endfor %}
+</div>

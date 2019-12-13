@@ -28,7 +28,6 @@ timezone: Etc/UTC
 permalink: /:categories/:title/
 
 plugins:
-  - jekyll-extract-element
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
@@ -38,14 +37,11 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
-
-collections:
-  sets:
-
-category_archive:
-  type: liquid
-  path: /category/
   
+collections:
+  category:
+    output: true
+
 defaults:
   -
     scope:
@@ -68,6 +64,13 @@ defaults:
       path: "index.html"
     values:
       body_class: "show_hero_search"
+      
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "archive"
 
 types:
   - Document

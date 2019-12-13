@@ -3,7 +3,7 @@
 
 title: Helpdesk
 url: "https://tech.agawamed.org"
-baseurl: "/"
+baseurl:
 google_analytics_key:
 disqus_shortname:
 newsletter_action:

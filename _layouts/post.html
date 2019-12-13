@@ -45,6 +45,8 @@ layout: default
 		{% include listings.html listings=series_posts numbered=true%}
 	</div>
 {% endif %}
+
+<!--
 {% assign related_posts = site.related_posts %}
 {% assign related_posts_size = related_posts | size %}
 {% if related_posts_size > 0 %}
@@ -54,6 +56,7 @@ layout: default
 		{% include listings.html listings=site.related_posts %}
 	</div>
 {% endif %}
+-->
 
 <script src="{{ site.baseurl }}/js/main.js"></script>
 

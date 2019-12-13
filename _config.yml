@@ -47,6 +47,10 @@ collections:
 jekyll-archives:
   enabled: ['categories']
 
+category_archive:
+  type: liquid
+  path: /category/
+  
 defaults:
   -
     scope:

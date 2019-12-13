@@ -1,5 +1,5 @@
 ---
 layout: category
 tag: annoucements
-permalink: /category/announcements
+permalink: /category/announcements/
 ---

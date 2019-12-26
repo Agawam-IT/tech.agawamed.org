@@ -5,9 +5,10 @@ permalink: /category/printing/
 {% assign printing = site.posts | where: "categories", "printing" | sort: "title" %}
 
 <h2>Printing <span class="count">({{ printing | size }})</span></h2>
+ 
 
 <section class="category">
-    <ul>
+    <ul class="listing">
         {% for post in site.categories.printing %}
             <li><a href="{{ site.baseurl }}{{ post.url }}">{% include document-icon.html icon=post.type %}{{ post.title }}</a></li>
         {% endfor %}

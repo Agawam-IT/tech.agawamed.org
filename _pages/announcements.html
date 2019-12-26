@@ -7,7 +7,7 @@ categories:
 - announcements 
 ---
 
-{% assign announcements = site.categories | where: "categories", "announcements" | sort: "title" %}
+{% assign announcements = site.posts | where: "categories", "announcements" | sort: "title" %}
 
 <h2>Annoucements <span class="count">({{ announcements | size }})</span></h2>
 

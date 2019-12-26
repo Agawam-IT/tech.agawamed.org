@@ -9,9 +9,8 @@ permalink: /category/announcements/
 <h2>Annoucements <span class="count">({{ announcements | size }})</span></h2>
 
 {% assign announcements = site.categories | sort %}
-	{% for announcements in categories %}
-		{% assign name = category[0] %}
-		{% assign posts = category[1] %}
+	{% for category in categories %}
+		{% assign name = assignments %}
 		{% assign size = posts | size %}
 		
 <section class="category">

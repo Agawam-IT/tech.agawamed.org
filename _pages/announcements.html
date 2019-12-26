@@ -1,18 +1,15 @@
 ---
 layout: default
 title: Announcements
-tag: annoucements
 permalink: /category/announcements/
-categories:
-- announcements 
 ---
 
 {% assign announcements = site.posts | where: "categories", "announcements" | sort: "title" %}
 
 <h2>Annoucements <span class="count">({{ announcements | size }})</span></h2>
 
-{% assign annoucements = site.categories | sort %}
-	{% for category in categories %}
+{% assign announcements = site.categories | sort %}
+	{% for announcements in categories %}
 		{% assign name = category[0] %}
 		{% assign posts = category[1] %}
 		{% assign size = posts | size %}

@@ -9,8 +9,9 @@ categories:
 
 {% assign announcements = site.posts | where: "categories", "announcements" | sort: "title" %}
 
-<h2>Printing <span class="count">({{ printing | size }})</span></h2>
+<h2>Annoucements <span class="count">({{ announcements | size }})</span></h2>
 
+{% assign categories = site.categories | sort %}
 	{% for category in categories %}
 		{% assign name = category[0] %}
 		{% assign posts = category[1] %}

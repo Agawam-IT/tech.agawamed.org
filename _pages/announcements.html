@@ -7,8 +7,27 @@ categories:
 - announcements 
 ---
 
-{% assign annoouncements = site.posts | where: "categories", "announcements" | sort: "title" %}
+{% assign announcements = site.posts | where: "categories", "announcements" | sort: "title" %}
 
-<h2>Announcements <span class="count">({{ announcements | size }})</span></h2>
+<h2>Printing <span class="count">({{ printing | size }})</span></h2>
 
-{% include listings.html listings=announcements %}
+	{% for category in categories %}
+		{% assign name = category[0] %}
+		{% assign posts = category[1] %}
+		{% assign size = posts | size %}
+		
+<section class="category">
+
+      
+
+			<ul>
+				{% assign tutorials = posts | sort: "title" %}
+				{% for tutorial in tutorials limit: 4 %}
+					<li><a href="{{ site.baseurl }}{{ tutorial.url }}">{% include document-icon.html icon=tutorial.type %}{{ tutorial.title }}</a></li>
+				{% endfor %}
+				{% if size > 4 %}
+					<li><a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ size | minus: 4 }} more...</a></li>
+				{% endif %}
+			</ul>
+		</section>
+	{% endfor %}

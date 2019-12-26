@@ -11,7 +11,7 @@ categories:
 
 <h2>Annoucements <span class="count">({{ announcements | size }})</span></h2>
 
-{% assign categories = site.categories | sort %}
+{% assign categories = announcements | sort %}
 	{% for category in categories %}
 		{% assign name = category[0] %}
 		{% assign posts = category[1] %}

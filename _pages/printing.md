@@ -11,4 +11,4 @@ categories:
 
 <h2>Printing <span class="count">({{ printing | size }})</span></h2>
 
-{% include listings.html listings=printing %}
+{% include listings.html listings=posts %}

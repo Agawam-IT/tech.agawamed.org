@@ -7,6 +7,15 @@
 		display: block;
 	}
 }
+@media #{$tablet} {
+	.show_hero_search header nav form {
+		 display: block;
+	}
+
+	.show_hero_search .hero_search {
+		display: block;
+	}
+}
 
 header {
 	padding: 16px 0 10px 0;

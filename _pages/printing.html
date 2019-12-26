@@ -6,4 +6,6 @@ permalink: /category/printing/
 
 <h2>Printing <span class="count">({{ printing | size }})</span></h2>
 
-{% include listings.html listings=posts %}
+{% for post in site.categories.printing %}
+    <li>{{ post.title }}</li>
+{% endfor %}

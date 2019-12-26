@@ -9,7 +9,7 @@ permalink: /category/printing/
 <section class="category">
     <ul>
         {% for post in site.categories.printing %}
-            <li><a href="{{ site.baseurl }}{{ post.url }}">{% include document-icon.html icon=tutorial.type %}{{ post.title }}</a></li>
+            <li><a href="{{ site.baseurl }}{{ post.url }}">{% include document-icon.html icon=post.type %}{{ post.title }}</a></li>
         {% endfor %}
     </ul>
 </section>

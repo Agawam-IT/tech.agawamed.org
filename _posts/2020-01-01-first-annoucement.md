@@ -1,7 +1,7 @@
 ---
 date: 2020-01-01
 title: Annoucement Placeholder
-description: "placeholder"
+description:
 type: Document
 categories:
   - "announcements"

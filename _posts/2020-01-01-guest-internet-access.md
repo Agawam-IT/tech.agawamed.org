@@ -1,6 +1,6 @@
 ---
 date: 2020-01-01
-title: Guest Wireless Internet Access
+title: Guest Internet Access
 description:
 type: Document
 categories:

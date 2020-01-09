@@ -80,8 +80,8 @@
 		display: none;
 		padding: 0 20px 0 0;
 		position: absolute;
-    top: 85px;
-		width: 200px;
+    		top: 85px;
+		width: 0px;
 
 		@media #{$mid-point} {
 			display: block;
@@ -117,10 +117,6 @@
 
 	.tutorial-content {
 		width: 100%;
-
-		@media #{$mid-point} {
-			margin-left: 230px;
-		}
 	}
 }
 

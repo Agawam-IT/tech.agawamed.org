@@ -1,7 +1,7 @@
 ---
 date: 2020-01-14
 title: January Announcements
-description: "January 2020 Technology Updates and Announcements"
+description:
 type: Document
 categories:
   - "announcements"

@@ -1,12 +1,13 @@
 ---
 date: 2020-01-14
-title: January Technology Announcements
+title: January Announcements
 description:
 type: Document
 categories:
   - "announcements"
 ---
 Posted by: Stephen Woicik
+Updated: January 14, 2020
 
 Hello Agawam Public Schools, and welcome back from a deserved winter break. The Technology Department has been hard at work making improvements to the district. Here are a few of the things that have changed.
 

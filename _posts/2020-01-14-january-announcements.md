@@ -16,7 +16,7 @@ The Technology Department will be posting monthly announcements for all staff to
 These announcements will be posted on the new technology website (see below) for everyone to see and sent to the district via email. If you ever have a question or concern about anything in the announcements, just submit a support ticket. 
 
 ## New Website
-We have built a new website for the Technology Department (https://tech.agawamed.org). This will start small and grow over time. The goal is to have a central place for everyone in the Agawam Public Schools Community to go for support and questions about technology. 
+We have built a new website for the Technology Department [https://tech.agawamed.org](https://tech.agawamed.org). This will start small and grow over time. The goal is to have a central place for everyone in the Agawam Public Schools Community to go for support and questions about technology. 
 
 The website will be where you go to submit a support ticket, view any technology announcements or updates, and find helpful articles. 
 
@@ -29,14 +29,14 @@ But, there are a few changes that affect everyone.
 
 - Whenever you submit a support ticket, you will receive an automated response email letting you know it was received. 
 - The forms to submit a ticket has changed slightly (many of you of already notices the new look). The form now runs through a Jira Web Form, not a Google Form. 
-- Staff can still email support@agawamed.org to submit a ticket. 
+- Staff can still email [support@agawamed.org](mailto:support@agawamed.org) to submit a ticket. 
 - You can also submit a ticket on the new [Technology Department website](https://tech.agawamed.org).
 
 There will be a few more changes coming in the summer as we try to improve and expand the technology support system. Any ideas or feedback is greatly appreciated. 
 
 
 ## How To Email IT
-One last quick note. If you are trying to email the Technology Department, please use the support@agawamed.org email address. An email sent to this address will go to everyone in the department. 
+One last quick note. If you are trying to email the Technology Department, please use the [support@agawamed.org](mailto:agawamed.org) email address. An email sent to this address will go to everyone in the department. 
 
 Some users are mistakenly sending emails to ITStaff@agawamed.org. This is just a distribution address that is not monitored. 
 

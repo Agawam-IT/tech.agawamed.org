@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 date: 2020-01-14
 title: January Technology Announcements
 description:

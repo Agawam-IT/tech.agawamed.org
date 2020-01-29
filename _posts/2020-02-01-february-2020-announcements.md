@@ -1,8 +1,8 @@
 ---
 date: 2020-02-01
-Published: false
 title: February 2020 Announcements
 description:
+published: false
 type: Document
 categories:
   - "announcements"

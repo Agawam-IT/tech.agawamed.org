@@ -1,6 +1,6 @@
 ---
 date: 2020-02-01
-title: February 20 Announcements
+title: February 2020 Announcements
 description:
 published: false
 type: Document

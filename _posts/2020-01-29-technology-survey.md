@@ -1,6 +1,6 @@
 ---
 date: 2020-01-29
-title: Technology Survey
+title: 2020 Technology Survey
 description:
 type: Document
 categories:

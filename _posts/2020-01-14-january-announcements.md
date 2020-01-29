@@ -1,6 +1,6 @@
 ---
 date: 2020-01-14
-title: 20 January Announcements
+title: January 2020 Announcements
 description:
 type: Document
 categories:

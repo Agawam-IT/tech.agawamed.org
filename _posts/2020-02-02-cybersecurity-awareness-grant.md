@@ -10,11 +10,11 @@ categories:
 ---
 Posted by Stephen Woicik on February 3, 2020
 
-Agawam Public Schools has bee selected to participate in a Statewide Cybersecurity Awareness Training.
+Agawam Public Schools has been selected to participate in a Statewide Cybersecurity Awareness Training.
 
-This training is being orgnaized by the Massachusetts State Government and will include school districts and local governments throughout the state. The goal is to get a baseline of our cyber security preparedness and educate us for the future.
+This training is being organized by the Massachusetts State Government and will include school districts and local governments throughout the state. The goal is to get a baseline of our cybersecurity preparedness and educate us for the future.
 
-The training will be a series of emails over the course of the remaining school year. The first of these emails will be arriving this week from the following address:
+The training will take place throughout the a series of emails over the course of the remaining school year. The first of these emails will be arriving this week from the following address:
 
 - FROM NAME: Wombat Training Platform
 - EMAIL ADDRESS: wombat_training_platform@wombatsecurity.com

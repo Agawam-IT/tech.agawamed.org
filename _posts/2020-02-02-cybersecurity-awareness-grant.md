@@ -18,9 +18,8 @@ The training will take place throughout the a series of emails over the course o
 
 The first of these emails will be arriving this week from the following address:
 
-'FROM NAME: Wombat Training Platform'
-'EMAIL ADDRESS: wombat_training_platform@wombatsecurity.com'
-
+- FROM NAME: Wombat Training Platform
+- EMAIL ADDRESS: wombat_training_platform@wombatsecurity.com
 - SUBJECT: You Have Been Assigned a CyberStrength Assessment
 - Not everyone will be receiving the email. For the people that do, please follow the instructions to conplete the baseline assessment.
 

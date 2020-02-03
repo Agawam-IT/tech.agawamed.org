@@ -1,6 +1,6 @@
 ---
 date: 2020-02-03
-title: Cybersecurity Awareness Training
+title: Cybersecurity Training
 description:
 published: true
 type: Document

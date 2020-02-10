@@ -2,7 +2,7 @@
 date: 2020-02-10
 title: Google Expeditions Virtual Reality
 description:
-published: false
+published: true
 type: Document
 categories:
   - "Curriculum Resources"
@@ -12,10 +12,10 @@ Posted by Edward Jacques on February 10, 2020
 
 ![VR Header](https://github.com/Agawam-Technology/Technology-Website/blob/master/images/VR%20Header.png)
 
-** "You're off to great places,**
-** Today is your day!**
-** Your mountain is waiting,**
-** So...get on your way!"**
+**"You're off to great places,**
+**Today is your day!**
+**Your mountain is waiting,**
+**So...get on your way!"**
 -- Dr. Seuss
 
 
@@ -59,7 +59,7 @@ When you open the Expeditions app, you can pick a role:
 - **Explorer** — Usually a student who follows an expedition on a phone. In this role, you look at what the Guide highlights as a point of interest, a scene, or an object.
 When going on a group expedition, only a Guide can lead an expedition. Explorers can’t join a group expedition without a Guide.
 
-** To pick a role for an Expedition **
+**To pick a role for an Expedition**
 
 1. On your mobile device, tap **Expeditions**.
 2. At the bottom, choose an option:

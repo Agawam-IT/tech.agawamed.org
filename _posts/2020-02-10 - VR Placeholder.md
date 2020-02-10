@@ -51,7 +51,7 @@ If you are using the district's VR Kit, you act as a "tour guide" for your stude
 
 ### How to Run a Guided Expedition
 
-This type of Expedition is meant to be run for a group by a _teacher_ **Tour Guide** with _students_ acting as **Explorers**.
+This type of Expedition is meant to be run for a group by a _teacher_ acting as a **Tour Guide** with _students_ acting as **Explorers**.
 
 When you open the Expeditions app, you can pick a role:
 

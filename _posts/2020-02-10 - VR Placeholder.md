@@ -51,6 +51,8 @@ If you are using the district's VR Kit, you act as a "tour guide" for your stude
 
 ### How to Run a Guided Expedition
 
+This type of Expedition is meant to be run for a group by a _teacher_ **Tour Guide** with _students_ acting as **Explorers**.
+
 When you open the Expeditions app, you can pick a role:
 
 - **Guide** — Usually a teacher who leads an expedition on their mobile device. In this role, you choose the expedition, pick the scenes or objects, and highlight points of interest.
@@ -66,6 +68,21 @@ When going on a group expedition, only a Guide can lead an expedition. Explorers
    - If you don’t see Join, an expedition might not be started. Ask your Guide.
 3. For VR expeditions, place your phone in the viewer. 
 4. To change your role, tap **Guide** or **Join**.
+
+### How to Run a Self-Guided Expedition
+
+This type of Expedition is meant to be run _independently_, often without the use of VR Goggles.  This is a great way to preview an expedtion prior to running it in guided mode with a class full of explorers.
+
+You can use solo mode to go on any VR expedition without having a full VR kit.
+
+1. On your iPad (or phone if you are trying Expeditions out at home), tap Expeditions .
+2. Choose an option:
+    - Tap Saved to access your saved expeditions.
+    - Tap Discover to access new expeditions. 
+     - Tap on the Expedition of your choosing to download it to your device.
+3. Open an expedition.
+4. Place your phone into your VR viewer (if using).
+    - If you don’t have a VR viewer, tap View Full-Screen.
 
 ## I've found an expedition!  Now what?
 

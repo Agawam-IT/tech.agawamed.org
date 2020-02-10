@@ -22,7 +22,7 @@ Posted by Edward Jacques on February 10, 2020
 
 ## What is it?
 
-The Google Expeditions Virtual Reality Kit allows classes to virtually explore the world without ever leaving their classroom!
+The **Google Expeditions Virtual Reality Kit** allows classes to virtually explore the world without ever leaving their classroom!
 
 Our Google Expeditions kit contains:
 
@@ -37,7 +37,7 @@ Our Google Expeditions kit contains:
 
 With a few simple setup steps - practically anywhere!  Visit the far reaches of the globe, go back in time to revisit history, go inside the human body, even visit Santa at the North Pole!
 
-To find out more - either download the Google Expeditions App to your iOS or Android device or [check out the ever growing spreadsheet of all available expeditions](https://docs.google.com/spreadsheets/d/1uwWvAzAiQDueKXkxvqF6rS84oae2AU7eD8bhxzJ9SdY/edit#gid=0).
+To find out more - either download the Google Expeditions App to your **iOS or Android device** or [check out the ever growing spreadsheet of all available expeditions](https://docs.google.com/spreadsheets/d/1uwWvAzAiQDueKXkxvqF6rS84oae2AU7eD8bhxzJ9SdY/edit#gid=0).
 
 ## How Does It Work?
 By itself, Google Expeditions is simply a stand alone app for iOS and Android that allows for immersive virtual tours.  When paired with VR headsets such as Google Cardboard viewers are treated to a full 360 degree VR experience.

@@ -20,7 +20,7 @@ Posted by Edward Jacques on February 10, 2020
 
 
 
-## What is it?
+### What is it?
 
 The **Google Expeditions Virtual Reality Kit** allows classes to virtually explore the world without ever leaving their classroom!
 
@@ -33,13 +33,13 @@ Our Google Expeditions kit contains:
 - 4 USB Quick Charging Stations
 - All packed into 3 custom fit rolling cases.
 
-## Really?!?  Where can we go?
+### Really?!?  Where can we go?
 
 With a few simple setup steps - practically anywhere!  Visit the far reaches of the globe, go back in time to revisit history, go inside the human body, even visit Santa at the North Pole!
 
 To find out more - either download the Google Expeditions App to your **iOS or Android device** or [check out the ever growing spreadsheet of all available expeditions](https://docs.google.com/spreadsheets/d/1uwWvAzAiQDueKXkxvqF6rS84oae2AU7eD8bhxzJ9SdY/edit#gid=0).
 
-## How Does It Work?
+### How Does It Work?
 By itself, Google Expeditions is simply a stand alone app for iOS and Android that allows for immersive virtual tours.  When paired with VR headsets such as Google Cardboard viewers are treated to a full 360 degree VR experience.
 
 If you are using the district's VR Kit, you act as a "tour guide" for your student "explorers."  If you are using the Google Expeditions app on an iPad or your phone the app runs in a "Self Guided Mode" and you can choose to use a VR headset such as Google Cardboard or simply use a tablet view.
@@ -59,7 +59,7 @@ When you open the Expeditions app, you can pick a role:
 - **Explorer** — Usually a student who follows an expedition on a phone. In this role, you look at what the Guide highlights as a point of interest, a scene, or an object.
 When going on a group expedition, only a Guide can lead an expedition. Explorers can’t join a group expedition without a Guide.
 
-#### To pick a role for an Expedition
+** To pick a role for an Expedition **
 
 1. On your mobile device, tap **Expeditions**.
 2. At the bottom, choose an option:
@@ -84,8 +84,7 @@ You can use solo mode to go on any VR expedition without having a full VR kit.
 4. Place your phone into your VR viewer (if using).
     - If you don’t have a VR viewer, tap **View Full-Screen**.
 
-## I've found an expedition!  Now what?
+### I've found an expedition!  Now what?
 
 If you've found an expedition you would like to run in your classroom, now you simply need to book the kit and my time to come help set you up!  You may book the kit by filling out the Google Expeditions VR Kit Request Form.
 
-## 

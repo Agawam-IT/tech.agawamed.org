@@ -75,14 +75,14 @@ This type of Expedition is meant to be run _independently_, often without the us
 
 You can use solo mode to go on any VR expedition without having a full VR kit.
 
-1. On your iPad (or phone if you are trying Expeditions out at home), tap Expeditions .
+1. On your iPad (or phone if you are trying Expeditions out at home), tap **Expeditions**.
 2. Choose an option:
-    - Tap Saved to access your saved expeditions.
-    - Tap Discover to access new expeditions. 
+    - Tap **Saved** to access your saved expeditions.
+    - Tap **Discover** to access new expeditions. 
      - Tap on the Expedition of your choosing to download it to your device.
 3. Open an expedition.
 4. Place your phone into your VR viewer (if using).
-    - If you don’t have a VR viewer, tap View Full-Screen.
+    - If you don’t have a VR viewer, tap **View Full-Screen**.
 
 ## I've found an expedition!  Now what?
 

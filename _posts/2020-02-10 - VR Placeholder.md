@@ -24,10 +24,6 @@ Posted by Edward Jacques on February 10, 2020
 
 The **Google Expeditions Virtual Reality Kit** allows classes to virtually explore the world without ever leaving their classroom!
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/3MQ9yG_QfDA" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
 Our Google Expeditions kit contains:
 
 - 30 Student View-Master Deluxe VR Viewers

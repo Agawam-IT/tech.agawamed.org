@@ -12,10 +12,10 @@ Posted by Edward Jacques on February 10, 2020
 
 ![VR Header](https://github.com/Agawam-Technology/Technology-Website/blob/master/images/VR%20Header.png)
 
-### "You're off to great places,
-### Today is your day!
-### Your mountain is waiting,
-### So...get on your way!"
+** "You're off to great places,**
+** Today is your day!**
+** Your mountain is waiting,**
+** So...get on your way!"**
 -- Dr. Seuss
 
 

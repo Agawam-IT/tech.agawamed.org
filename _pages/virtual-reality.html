@@ -1,0 +1,19 @@
+---
+permalink: /category/virtual-reality
+---
+
+{% assign 'virtual reality' = site.posts | where: "categories", "virtual-reality" | sort: "title" %}
+
+<h2>Virtual Reality <span class="count">({{ 'virtual-reality' | size }})</span></h2>
+ 
+
+<section class="category">
+    <ul class="listing">
+       {% for post in site.categories.'virtual reality' %}
+          <li>
+            <h3><a href="{{ site.baseurl }}{{ post.url }}">{% include document-icon.html icon=post.type %}{{ post.title }}</a></h3>
+            <p class="description">{{ post.description }}</p>
+          </li>
+       {% endfor %}
+    </ul>
+</section>

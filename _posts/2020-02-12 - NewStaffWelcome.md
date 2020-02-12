@@ -38,6 +38,6 @@ Log in with yourusername@agawamed.org and the password you just set.  **(Replace
 
 All staff members are given an Agawam Public Schools ID badge as well as a black _chip_ affixed to the back of your ID, which acts as your building key card and your copier card.  They are often refered to as many different things by district staff, the correct name is a "Proximity Tag". 
 
-**Door Entry** - to enter the building you work in, simply hold your chip "in proximity" of the door sensor and you will be identified to the system.
+- **Door Entry** - to enter the building you work in, simply hold your chip "in proximity" of the door sensor and you will be identified to the system.
 
-**Copier/Printer Usage** - This same proximity tag identifies you at copiers district wide.  In order to make photocopies, simply hold your chip "in proximity" of the door sensor and you will granted access to the copier.  If you are printing documents from your workstation, you can print your document to the copiers by simply selecting the "Follow-Me" printer.  Once _printed_ to "Follow-Me" simply pull up your print jobs at the copier and release them. 
+- **Copier/Printer Usage** - This same proximity tag identifies you at copiers district wide.  In order to make photocopies, simply hold your chip "in proximity" of the door sensor and you will granted access to the copier.  If you are printing documents from your workstation, you can print your document to the copiers by simply selecting the "Follow-Me" printer.  Once _printed_ to "Follow-Me" simply pull up your print jobs at the copier and release them. 

@@ -23,7 +23,7 @@ The first step in getting up and running on the Agawam Public Schools network is
 
 ### Let's Get Productive - Meet agawamed.org our G-Suite for Education Domain
 
-The Agawam Public Schools utilizes **Google's G-Suite for Education** for **electronic mail** and **productivity applications** such as Google Docs, Sheets, SLides and Forms.  By setting up your network account, you will have also begun the process of setting up your G-Suite environment.
+The Agawam Public Schools utilizes **Google's G-Suite for Education** for **electronic mail** and **productivity applications** such as Google Docs, Sheets, Slides and Forms.  By setting up your network account, you will have also begun the process of setting up your G-Suite environment.
 
 If you are familiar with Google's GMAIL, then you are going to feel quite comfortable with G-Suite for Education.  Unlike a personal gmail account, which typically is username@gmail.com, each school system is allowed to have their own G-Suite domain.  **As an employee of the Agawam Public Schools, your G-Suite account will be your username@agawamed.org.**
 

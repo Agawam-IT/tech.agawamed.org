@@ -24,16 +24,9 @@ When **Drive File Stream** is run, it creates a drive in My Computer or a device
 
 ### Moving Files to a Folder
 
-- Decide which files you want to store in Drive.
-  - (Optional) Organize the files in folders the way you want them to appear in Drive.
-- Click Drive File Stream .
-- Click Open Drive Folder .
-- Move the files and folders into a folder. From now on, these files exist in the Drive folder and are synchronized with other devices that also have Drive installed.
+- Decide which files you want to store in Google Drive.
+  - (Optional) Organize the files in folders the way you want them to appear in Google Drive.
+- Click **Drive File Stream**.
+- Click **Open Drive Folder**.
+- Move the files and folders into a folder. From now on, these files exist in the Drive folder and are synchronized with other devices that also have Google Drive installed.
 
-If your internet connection breaks or you need to go offline in the middle of a sync, Drive File Stream picks up where it left off when you’re back online.
-Pause syncing:
-
-- Click Drive File Stream .
-- Click More  (the three dots) > Pause Syncing.
-
-When paused, Drive File Stream won't upload local changes to Drive, and new versions of files made available offline won't be downloaded. Click Resume Syncing to start sync back up.

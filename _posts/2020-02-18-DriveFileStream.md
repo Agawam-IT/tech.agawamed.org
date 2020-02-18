@@ -19,7 +19,8 @@ All district Windows Pc’s and Laptops have **Drive File Stream** already insta
 - You'll see the **Drive File Stream** icon at the bottom right on Windows or at the top right on Mac.
 - Click the **Drive File Stream** icon.
   - If this is your first time using **Drive File Stream**, you will be asked to log in to your agawamed.org account.
-- To access your Google Drive files and folders, click **Open Drive Folder** .
+- To access your Google Drive files and folders, click the **Open Drive Folder** icon .
+
 When **Drive File Stream** is run, it creates a drive in My Computer or a device in Finder named **Google Drive File Stream**. All your Google Drive files appear here.  A quick way to access this on a Windows PC is to use the keyboard combination **WINDOWS + E** to open file explorer.
 
 ### Moving Files to a Folder
@@ -27,6 +28,6 @@ When **Drive File Stream** is run, it creates a drive in My Computer or a device
 - Decide which files you want to store in Google Drive.
   - (Optional) Organize the files in folders the way you want them to appear in Google Drive.
 - Click **Drive File Stream**.
-- Click **Open Drive Folder**.
+- Click the **Open Drive Folder** icon.
 - Move the files and folders into a folder. From now on, these files exist in the Drive folder and are synchronized with other devices that also have Google Drive installed.
 

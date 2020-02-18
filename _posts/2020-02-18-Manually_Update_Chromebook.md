@@ -5,7 +5,7 @@ description:
 published: true
 type: Document
 categories:
-  - "aquick fixes"
+  - "quick fixes"
 ---
 Posted by Edward Jacques on February 18, 2020
 

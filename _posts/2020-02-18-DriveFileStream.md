@@ -2,7 +2,7 @@
 date: 2020-02-12
 title: Google Drive File Stream
 description:
-published: false
+published: true
 type: Document
 categories:
   - "announcements"

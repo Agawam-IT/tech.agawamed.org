@@ -1,6 +1,6 @@
 ---
 date: 2020-02-18
-title: New Staff Resources
+title: Getting Started with Agawam Technology
 description:
 published: true
 type: Document

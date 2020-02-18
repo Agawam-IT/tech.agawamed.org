@@ -17,7 +17,7 @@ Websites seem to load incorrectly - often only on specific sites that once worke
 ### Possible Cause
 When you use a browser, like Chrome, it saves some information from websites in its cache and cookies. Clearing them fixes certain problems, like loading or formatting issues on sites.
 
-### Possible Resolution - Clearing Your Broser Cache in Chrome
+### Possible Resolution - Clearing Your Browser Cache in Chrome
 
 - On your computer, open Chrome.
 - At the top right, click the **three vertical dots**.

@@ -8,6 +8,7 @@ categories:
   - "quick fixes"
 ---
 Posted by Edward Jacques on February 18, 2020
+Another article in a recurring series of _common problems_ we see in the IT Department.
 
 ### Symptoms
 

@@ -19,7 +19,7 @@ Explore artworks, museums and their vast collections in vivid detail.
 
 ### Resource Overview
 
-The Google Arts and Culture project serves a virtual home to many of the world's most famous museums and historical landmarks.  Among the hilights of the collection are gigapixel images of some of the world's most famous artworks, 360 degree images and video and the ability to tap in to Google's Street View cameras as they capture famous sites from around the world.
+The Google Arts and Culture project serves a virtual home to many of the world's most famous museums and historical landmarks.  Among the hilights of the collection are [gigapixel images](https://artsandculture.google.com/project/art-camera) of some of the world's most famous artworks, [360 degree images and video](https://artsandculture.google.com/project/360-videos) and the ability to tap in to [Google's Street View](https://artsandculture.google.com/project/street-view) cameras as they capture famous sites from around the world.
 
 As the name implies, a heavy emphasis is placed on collections of world reknowned art institutions from around the world.  However, there are also many exhibits that put an emphasis on historical events and figures.  Additionally, Google has created any of their own collections centered around various themes.
 

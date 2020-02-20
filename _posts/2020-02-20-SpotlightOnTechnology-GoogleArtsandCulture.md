@@ -2,7 +2,7 @@
 date: 2020-02-18
 title: Google Arts and Culture Project
 description:
-published: false
+published: true
 type: Document
 categories:
   - "spotlight on technology"

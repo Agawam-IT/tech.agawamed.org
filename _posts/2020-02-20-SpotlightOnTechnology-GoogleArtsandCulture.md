@@ -13,7 +13,7 @@ Posted by Edward Jacques on February 20, 2020
 ### Spotilight on Technology
 _an ongoing series of useful technological resources_
 
-### The Google Arts and Culture Project
+### The Google Arts and Culture Project [https://artsandculture.google.com/]
 
 Explore artworks, museums and their vast collections in vivid detail.
 

@@ -37,3 +37,7 @@ With that in mind, here are a few tips for finding interesting resources from wi
 
 - **Been there before?  Try collections!**
   - Perhaps you've been to the Museum of Modern Art in New York City?  Or the Museum of Fine Arts in Boston?  Maybe the Norman Rockwell Museum in Stockbridge?  If so, jump on over to **Collections** and visit your favorite museum virtually.
+
+### Caveats
+
+- Needless to say, as an online art and culture museum, there isn't really an censorship on content, much like other museums around the world.  Before introducing this resource to your classes I would suggest taking some time to preview the contents.

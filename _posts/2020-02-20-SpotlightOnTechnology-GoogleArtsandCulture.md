@@ -18,4 +18,10 @@ Explore artworks, museums and their vast collections in vivid detail.
 
 ### Resource Overview
 
-The Google Arts and Culture project serves a virtual home to many of the world's most famous museums and historical landmarks.
+The Google Arts and Culture project serves a virtual home to many of the world's most famous museums and historical landmarks.  Among the hilights of the collection are gigapixel images of some of the world's most famous artworks, 360 degree images and video and the ability to tap in to Google's Street View cameras as they capture famous sites from around the world.
+
+As the name implies, a heavy emphasis is placed on collections of world reknowned art institutions from around the world.  However, there are also many exhibits that put an emphasis on historical events and figures.  Additionally, Google has created any of their own collections centered around various themes.
+
+### Tips and Tricks
+
+As you might imagine, just like any museum, it is easy to get lost in all the various exhibits.  I know for myself personally, I found myself overwhelmed by the sheer maginitude of the collection.

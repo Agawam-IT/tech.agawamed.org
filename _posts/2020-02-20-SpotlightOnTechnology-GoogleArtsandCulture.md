@@ -40,4 +40,4 @@ With that in mind, here are a few tips for finding interesting resources from wi
 
 ### Caveats
 
-- Needless to say, as an online art and culture museum, there isn't really an censorship on content, much like other museums around the world.  Before introducing this resource to your classes I would suggest taking some time to preview the contents.
+- Needless to say, as an online art and culture museum, so there isn't really an censorship on content, much like other museums around the world.  Before introducing this resource to your classes I would suggest taking some time to preview the contents.

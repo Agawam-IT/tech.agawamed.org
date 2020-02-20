@@ -7,6 +7,7 @@ type: Document
 categories:
   - "spotlight on technology"
 ---
+
 Posted by Edward Jacques on February 20, 2020
 
 ### Spotilight on Technology

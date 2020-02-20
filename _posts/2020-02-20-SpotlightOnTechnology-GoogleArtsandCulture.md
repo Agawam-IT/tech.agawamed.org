@@ -33,10 +33,10 @@ With that in mind, here are a few tips for finding interesting resources from wi
   - If there is one thing that Google is definitely good at, it is searching.  If you know exactly the type of resource you're looking for, utilize the search feature.  For example, if I wanted to have my students research **Abraham Lincoln** simply click the magnifying glass in the upper right hand corner and search for him by name.  Simply doing that will return various collections and stories about our 16th president.
 
 - **Need some inspiration?  Try Themes**
-  - Don't know where to start?  Take a peek at **Themes** and see what strikes your fancy.  For example, **A Giant Leap for Mankind** celebrates the 50th anniversary of the Apollo 11 mission to the moon.  One particuarily striking theme is **American Democracy** which offers an amazing look into the lives of past Presidents of the Untited States and events that shaped democracy.
+  - Don't know where to start?  Take a peek at [Themes](https://artsandculture.google.com/project) and see what strikes your fancy.  For example, **A Giant Leap for Mankind** celebrates the 50th anniversary of the Apollo 11 mission to the moon.  One particuarily striking theme is **American Democracy** which offers an amazing look into the lives of past Presidents of the Untited States and events that shaped democracy.
 
 - **Been there before?  Try collections!**
-  - Perhaps you've been to the Museum of Modern Art in New York City?  Or the Museum of Fine Arts in Boston?  Maybe the Norman Rockwell Museum in Stockbridge?  If so, jump on over to **Collections** and visit your favorite museum virtually.
+  - Perhaps you've been to the Museum of Modern Art in New York City?  Or the Museum of Fine Arts in Boston?  Maybe the Norman Rockwell Museum in Stockbridge?  If so, jump on over to [Collections](https://artsandculture.google.com/partner) and visit your favorite museum virtually.
 
 ### Caveats
 

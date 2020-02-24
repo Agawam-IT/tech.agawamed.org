@@ -6,7 +6,7 @@ published: true
 type: Document
 categories:
   - "g suite"
-  - "TeacherPlus"
+  - "teacherPlus"
 ---
 
 Posted by Edward Jacques on February 24, 2020

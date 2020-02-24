@@ -5,7 +5,7 @@ description:
 published: true
 type: Document
 categories:
-  - "G-Suite"
+  - "G Suite"
 ---
 Posted by Edward Jacques on February 18, 2020
 

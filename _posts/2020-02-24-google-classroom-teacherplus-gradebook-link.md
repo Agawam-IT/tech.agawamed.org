@@ -2,10 +2,10 @@
 date: 2020-02-18
 title: Link Google Classroom to TeacherPlus Gradebook
 description:
-published: false
+published: true
 type: Document
 categories:
-  - "G-Suite"
+  - "G Suite"
   - "TeacherPlus"
 ---
 

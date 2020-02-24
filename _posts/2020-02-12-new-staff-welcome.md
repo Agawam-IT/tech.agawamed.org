@@ -5,7 +5,7 @@ description:
 published: true
 type: Document
 categories:
-  - "new staff members"
+  - "new staff"
 ---
 Posted by Edward Jacques on February 18, 2020
 

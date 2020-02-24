@@ -5,7 +5,7 @@ description:
 published: true
 type: Document
 categories:
-  - "file storage"
+  - "G-Suite"
 ---
 Posted by Edward Jacques on February 18, 2020
 

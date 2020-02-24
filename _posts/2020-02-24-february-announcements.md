@@ -48,6 +48,10 @@ If you need help or further explaination, please submit a support request to the
 
 Some of you have noticed a new bookmarks menu in Google Chrome. If you are logged into your @agawamed.org Google Account you will now see an Agawam Bookmarks folder in the top left of the browser. We have added a few useful links and will be adding more in the future. If there is anything you'd like to see added to the bookmark folder, please let us know. 
 
+### Link Google Classroom with TeacherPlus Gradebook
+
+Rediker has released a new feature in link your Google Classroom with the TeacherPlus Gradebook. Many of our teachers are currently using both platforms and have to do double entry. This will streamline much of the work. Ed in the Technology Department has put together this [helpful tutorial](https://tech.agawamed.org/g%20suite/teacherplus/google-classroom-teacherplus-gradebook-link/). 
+
 That is all for now. The Technology Department will be sending out more announcements at least once a month. Always be sure to check the website for the latest information.
 
 If you have any questions or concerns about anything in this announcement, please submit a support ticket.

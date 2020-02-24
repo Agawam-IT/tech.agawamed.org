@@ -1,24 +1,24 @@
 ---
 date: 2020-02-18
-title: Linking Google Classroom to Teacher Plus Gradebook
+title: Link Google Classroom to TeacherPlus Gradebook
 description:
 published: false
 type: Document
 categories:
-  - "announcements"
+  - "G-Suite"
+  - "TeacherPlus"
 ---
 
 Posted by Edward Jacques on February 24, 2020
 
-**Starting today - you are now able to link Google Classroom assignments directly to your TeacherPlus Gradebook!**
+You are now able to link Google Classroom assignments directly to your TeacherPlus Gradebook!
 
 ### Release Notes and Overview Video
 
 Information regarding this release can be found at the [Rediker Support Site Page](https://support.rediker.com/support/solutions/articles/14000107777-html5-teacherplus-release-december-27-2019?wvideo=s0lmop0w73)
 - Scroll down to the bottom of the page for an overview video
 
-### CHEAT SHEET: How to Link Google Classroom to TeacherPlus Gradebook (w/ Agawam Specific Notes)
-
+### How to Link Google Classroom to TeacherPlus Gradebook
 
 - Allow **TeacherPlus Gradebook** to link with **Google Classroom**
   - Already done by APS IT Department - **no teacher interaction required.**

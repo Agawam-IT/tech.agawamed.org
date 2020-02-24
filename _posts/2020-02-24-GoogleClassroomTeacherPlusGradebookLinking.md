@@ -20,8 +20,8 @@ Information regarding this release can be found at the [Rediker Support Site Pag
 ### CHEAT SHEET: How to Link Google Classroom to TeacherPlus Gradebook (w/ Agawam Specific Notes)
 
 
-- Allow TeacherPlus Gradebook to Link with Google Classroom
-  - Already done by APS IT Department - no teacher interaction required.
+- Allow **TeacherPlus Gradebook** to link with **Google Classroom**
+  - Already done by APS IT Department - **no teacher interaction required.**
 - Link a **TeacherPlus Gradebook** to a **Google Classroom**
   - Must be done one time for each class section you wish to link.
   - If the Google Classroom doesn’t already have students rostered - they receive an invite email.  If they are already rostered this isn’t necessary.

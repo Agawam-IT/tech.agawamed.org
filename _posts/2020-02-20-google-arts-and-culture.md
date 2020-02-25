@@ -5,7 +5,7 @@ description:
 published: true
 type: Document
 categories:
-  - "spotlight on technology"
+  - "g suite"
 ---
 
 Posted by Edward Jacques on February 20, 2020

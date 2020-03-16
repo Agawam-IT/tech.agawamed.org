@@ -20,4 +20,6 @@ We will be providing access to devices to the best of our abilities. The most co
 
 We have made Google Hangouts and Google Meet available for everyone with an @agawamed.org account. This will allow additional resources for teachers and students to interact and provide virtual classroom experiences. 
 
+If you have any questions about software that can be used with our students, please ask. We are trying to consolidate technology resource to not overwhelm students with links and logins. 
+
 The Technology Support System will remain open through any school closures. If you have any questions or concerns, please send an email to [support@agawamed.org](mailto:support@agawamed.org) with technology related questions. 

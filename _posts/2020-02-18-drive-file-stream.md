@@ -16,12 +16,12 @@ You access My Drive from My Computer (Microsoft® Windows®) or Finder (Apple® 
 ### Accessing Drive File Stream
 
 All district Windows Pc’s and Laptops have **Drive File Stream** already installed.
-- You'll see the **Drive File Stream** icon at the bottom right on Windows or at the top right on Mac.
+- You'll see the **Drive File Stream** under the **Windows Start Menu**.
 - Click the **Drive File Stream** icon.
   - If this is your first time using **Drive File Stream**, you will be asked to log in to your agawamed.org account.
 - To access your Google Drive files and folders, click the **Open Drive Folder** icon .
 
-When **Drive File Stream** is run, it creates a drive in My Computer or a device in Finder named **Google Drive File Stream**. All your Google Drive files appear here.  A quick way to access this on a Windows PC is to use the keyboard combination **WINDOWS + E** to open file explorer.
+When **Drive File Stream** is run, it creates a drive in My Computer or a device in Finder named **Google Drive File Stream**. (In Agawam we have this as the "G-Drive") All your Google Drive files appear here.  A quick way to access this on a Windows PC is to use the keyboard combination **WINDOWS + E** to open file explorer.
 
 ### Moving Files to a Folder
 

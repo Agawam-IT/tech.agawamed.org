@@ -4,7 +4,7 @@ title: Forwarding Calls to Cell Phone
 description:
 type: Document
 categories:
-  - "VoIP"
+  - "voIP"
 ---
 Posted by Stephen Woicik on March 17, 2020
 

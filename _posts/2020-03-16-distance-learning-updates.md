@@ -1,10 +1,11 @@
 ---
 date: 2020-03-16
-title: Distance Learning Updates
+title: March 16 Staff Updates
 description:
 type: Document
 categories:
   - "announcements"
+  - "distance learning"
 ---
 Posted by Stephen Woicik on March 16, 2020
 

@@ -7,7 +7,7 @@ categories:
   - "g suite"
   - "distance learning"
 ---
-Posted by Stephen Woicik on March 18, 2020
+Posted by Stephen Woicik on March 31, 2020
 
 This is a list of tips, tricks, and guidelines for having a successful virtual classroom through Google Hangouts Meet. 
 

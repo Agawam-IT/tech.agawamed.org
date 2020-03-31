@@ -5,7 +5,6 @@ description:
 type: Document
 categories:
   - "g suite"
-  - "distance learning"
 ---
 Posted by Stephen Woicik on March 31, 2020
 

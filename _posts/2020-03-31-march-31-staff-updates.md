@@ -55,7 +55,7 @@ Please be patient and understand we are doing what we can.
 
 If you are looking for new software and resources that are already available to you, the library page of each school is a great resource. 
 
-The librarians have done a great job of complaining online resources and software you can use with your classroom today. 
+The librarians have done a great job of compiling online resources and software you can use with your classroom today. 
 
 **Parent and Student Questions**
 

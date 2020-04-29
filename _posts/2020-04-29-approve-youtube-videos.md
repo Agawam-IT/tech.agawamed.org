@@ -5,7 +5,7 @@ description:
 published: true
 type: Document
 categories:
-  - "youtube"
+  - "youTube"
 ---
 Posted by Ed Jacques on April 29th, 2020
 

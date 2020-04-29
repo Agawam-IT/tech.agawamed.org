@@ -25,7 +25,7 @@ There are a few resources already created and links we can share.
 
 **YouTube Restrictions**
 
-We have begun easing the restrictions on YouTube. Students now have more access to videos. This also applied to EdPuzzle restrictions and issues. 
+We have begun easing the restrictions on YouTube. Students now have more access to videos. This also applies to EdPuzzle restrictions and issues. 
 
 Teachers have the ability to approve certain videos that are blocked from being viewed by students. This allows a temporary whitelist of the video for students. 
 

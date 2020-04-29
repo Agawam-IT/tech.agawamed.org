@@ -5,7 +5,7 @@ description:
 published: true
 type: Document
 categories:
-  - "g suite"
+  - "google"
   - "teacherPlus"
 ---
 

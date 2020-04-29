@@ -5,7 +5,6 @@ description:
 type: Document
 categories:
   - "announcements"
-  - "distance learning"
 ---
 Posted by Stephen Woicik on March 16, 2020
 

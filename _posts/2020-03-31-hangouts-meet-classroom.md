@@ -4,7 +4,7 @@ title: Tips for Meet Classroom
 description:
 type: Document
 categories:
-  - "g suite"
+  - "google"
 ---
 Posted by Stephen Woicik on March 31, 2020
 

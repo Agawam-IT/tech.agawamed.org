@@ -12,7 +12,7 @@ We wanted to share another round of updates from the Technology Department about
 
 **Distance Learning PD**
 
-Distance Learning is here for the remainder of the school year. We are working to provide additional PD and training opportunities to help with this. We have created a [short form](https://forms.gle/TnC2nqQYUzZ25D6GA) for people to fill out. This will help us prioritize where the most need is for PD. 
+Distance Learning is here for the remainder of the school year. We are working to provide additional PD and training opportunities to help. We have created a [short form](https://forms.gle/TnC2nqQYUzZ25D6GA) for people to fill out. This will help prioritize where the most need is for PD. 
 
 We plan to offer PD through Google Classroom, Google Meet drop in sessions, and web resources.
 
@@ -27,7 +27,7 @@ There are a few resources already created and links we can share.
 
 We have begun easing the restrictions on YouTube. Students now have more access to videos. This also applied to EdPuzzle restrictions and issues. 
 
-Teachers also have the ability to approve certain videos that are blocked from being viewed by students. This allows a temporary whitelist of the video for students. 
+Teachers have the ability to approve certain videos that are blocked from being viewed by students. This allows a temporary whitelist of the video for students. 
 
 **Google Meet Tip**
 

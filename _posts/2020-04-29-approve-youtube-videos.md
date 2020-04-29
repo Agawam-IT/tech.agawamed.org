@@ -1,6 +1,6 @@
 ---
 date: 2020-04-29
-title: How to Approve YouTube Videos for Students
+title: How to Approve YouTube Videos
 description:
 published: true
 type: Document

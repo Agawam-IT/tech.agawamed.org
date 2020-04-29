@@ -1,8 +1,8 @@
 ---
-permalink: /category/g-suite/
+permalink: /category/google/
 ---
 
-{% assign g-suite = site.posts | where: "categories", "g suite" | sort: "title" %}
+{% assign g-suite = site.posts | where: "categories", "google" | sort: "title" %}
 
 <h2>G Suite <span class="count">({{ 'g suite' | size }})</span></h2>
  
@@ -10,7 +10,7 @@ permalink: /category/g-suite/
 <section class="category">
     <ul class="listing">
 
-       {% for post in site.categories == "g suite" %}
+       {% for post in site.categories == "google" %}
           <li>
             <h3><a href="{{ site.baseurl }}{{ post.url }}">{% include document-icon.html icon=post.type %}{{ post.title }}</a></h3>
             <p class="description">{{ post.description }}</p>

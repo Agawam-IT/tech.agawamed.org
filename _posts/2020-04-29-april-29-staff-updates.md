@@ -22,7 +22,7 @@ We plan to offer PD through Google Classroom, Google Meet drop in sessions, and 
 There are a few resources already created and links we can share. 
 - Inside the [Distance Learning Shared Drive](https://drive.google.com/drive/folders/1Uhg8YJyQlmkmZpjCwaaq8uIh5lLceRjV) is a list of technology resources that have been updated over the past months. 
 - The [Technology Website](https://tech.agawamed.org/) is being regularly updated with tutorials and help. 
-- https://teachercenter.withgoogle.com/training
+- Google has created a [website](https://teachfromhome.google/intl/en/) with deidcated resources for teaching remotely with G-Suite.
 
 **YouTube Restrictions**
 

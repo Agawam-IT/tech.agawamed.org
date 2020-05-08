@@ -15,8 +15,7 @@ You are now able to link Google Classroom assignments directly to your TeacherPl
 
 ### Release Notes and Overview Video
 
-Information regarding this release can be found at the [Rediker Support Site Page](https://support.rediker.com/support/solutions/articles/14000107777-html5-teacherplus-release-december-27-2019?wvideo=s0lmop0w73)
-- Scroll down to the bottom of the page for an overview video
+05-08-2020 - removed the release notes and overview video as Rediker made an interface tweak recently that does not match the notes from their suppport site.  As soon as corrected documentation is available I will post it here.
 
 ### How to Link Google Classroom to TeacherPlus Gradebook
 

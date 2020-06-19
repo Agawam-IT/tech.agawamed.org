@@ -4,7 +4,7 @@ title: June 19 Staff Updates
 description:
 type: Document
 categories:
-  - "announcements"
+  - "announcements"
 ---
 Posted by Stephen Woicik on June 19, 2020
 

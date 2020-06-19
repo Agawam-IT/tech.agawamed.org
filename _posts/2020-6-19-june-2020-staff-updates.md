@@ -30,7 +30,7 @@ We are aware that many teachers will need devices over the summer for various re
 
 **District Wide Software**
 
-Distance Learning has introduced lots of new software to the district. The Technology Department and Curriculum Department have been working to evaluate this software and find a plan to keep the best software for next school year. This will include buying district and school wide licenses when necessary. 
+Distance Learning has introduced a lot of new software to the district. The Technology Department and Curriculum Department have been working to evaluate these tools and find a plan to keep the best software for next school year. This will include buying district and school wide licenses when necessary. We have been collecting feedback from teachers, students, parents, and other staff to evaluate each software. 
 
 As part of this process the Technology Department is developing a Single Sign On solution for use in the upcoming school year. This will greatly reduce the number of logins students and staff need to use. It will also allow us to keep all of our software under one system. More on this system as we get closer to the start of school. 
 

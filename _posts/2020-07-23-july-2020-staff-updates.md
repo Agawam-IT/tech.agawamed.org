@@ -30,7 +30,7 @@ There have been many meetings, surveys, and discussions in the district related
 - GradeSlam
 - BrainPop
 - RazKids
-- PeppleGo
+- PebbleGo
 - ESGI
 
 The goal was to not remove any resources the district had in the previous school year, and add software that will assist with hybrid and remote learning. There are still several more software purchases that are being considered. If you have anything to add to the discussion, please contact the Technology and/or Curriculum Departments. 

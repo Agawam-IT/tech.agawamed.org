@@ -13,17 +13,24 @@ Hello Agawam Public Schools,
 
 The Technology Department has a few updates and announcements for everyone.
 
-## Network Upgrades
+**Network Upgrades**
 
 We are working on upgrades to the wireless network in the district. These upgrades will provide better support for the 1:1 device model we now have district wide.
 
 Over the next month you may see networks titled; Staff, Student, and Guest. These are being set up and tested by the Technology Department. Please, do not try to connect to these networks until instructed to. They will not work.
 
-## Clever Single Sign On
+**Clever Single Sign On**
 
 The syncing issues with Rediker and Clever have been resolved. This was the roadblock preventing many of the software to be set up correctly. The Technology Department is working with our vendors to get all software on the Clever platform. More are being added everyday.
 
-## Document Cameras
+Currently Working
+- NearPod
+- EdPuzzle
+- Freckle Math
+- Freckle ELA
+- Accelerated Reader
+
+**Document Cameras**
 
 The IPEVO Document Cameras arrived this week. We will be getting them ready and delivered to the schools for distribution soon.
 
@@ -31,7 +38,7 @@ These new document cameras will be assigned to individuals, not to the classroom
 
 The software to work with the document cameras is being pushed out to devices today. You may see a few additional apps on your device next week.
 
-## Chrome Extensions and Add-Ons
+**Chrome Extensions and Add-Ons**
 
 There have been a few support tickets around this topic. Teachers and Staff are unrestricted from adding extensions to their devices. You are able to add and test out any free extension.
 

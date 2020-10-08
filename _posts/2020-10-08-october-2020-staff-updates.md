@@ -8,8 +8,6 @@ categories:
 ---
 Posted by Stephen Woicik on October 8, 2020
 
-Hello Agawam Public Schools,
-
 The Technology Department has a few updates and announcements for everyone.
 
 **Network Upgrades**

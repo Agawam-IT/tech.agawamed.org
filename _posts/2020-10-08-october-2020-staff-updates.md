@@ -39,6 +39,7 @@ Launching Soon
 - Lab Aids Science
 - STEMScopes
 - Paper Education 
+- FitnessGram
 
 **Document Cameras**
 

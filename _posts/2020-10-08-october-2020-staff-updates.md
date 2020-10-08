@@ -3,7 +3,6 @@ date: 2020-10-08
 title: October 8 Staff Updates
 description:
 type: Document
-published: false
 categories:
   - "announcements"
 ---
@@ -29,6 +28,19 @@ Currently Working
 - Freckle Math
 - Freckle ELA
 - Accelerated Reader
+- BrainPop and Jr
+- Star 360
+- Google Apps
+- Houghton Mifflin Textbooks
+- Savvas Textbooks (Formerly Pearson)
+
+Launching Soon
+- Mcgraw Hill Textbooks are in the final day of testing
+- RazKids
+- PeppleGo
+- Lab Aids Science
+- STEMScopes
+- Paper Education 
 
 **Document Cameras**
 

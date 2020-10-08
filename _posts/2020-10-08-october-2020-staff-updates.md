@@ -37,7 +37,7 @@ Currently Working
 Launching Soon
 - Mcgraw Hill Textbooks are in the final day of testing
 - RazKids
-- PeppleGo
+- PebbleGo
 - Lab Aids Science
 - STEMScopes
 - Paper Education 
